@@ -11,4 +11,4 @@ Below are highlights of our work:
 - The much fewer annotations are needed to train Convolutional Neural Networks.
 - The pipeline of accurate and efficient 3D perception is established.
 
-Codes and data will be released when the paper is published.
+Full data will be released when the paper is published.

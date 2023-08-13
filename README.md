@@ -1,5 +1,5 @@
 # DeepMMP
 
-Codes and data will be released when the article is published.
+![1.jpg](assets/GraphicalAbstract.jpg)
 
-[Graphicalabstract.tif](assets/Graphical abstract.tif)
+Codes and data will be released when the paper is published.
